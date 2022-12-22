@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Moura</h1>
 <h3 align="center">Full Stack Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **AngularJs**
+- 🌱 I’m currently learning **Java/ Springboot**
 
 - 📫 How to reach me **g.gmoura@outlook.com**
 
